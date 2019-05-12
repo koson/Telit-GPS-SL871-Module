@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: E:\ALTIUM_DESIGNER\Altium_Project\Design_Files\Telit-GPS-SL871-Module\Telit-GPS-SL871-Module-V1.1\Telit-GPS-SL871-Module-V1.1.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94

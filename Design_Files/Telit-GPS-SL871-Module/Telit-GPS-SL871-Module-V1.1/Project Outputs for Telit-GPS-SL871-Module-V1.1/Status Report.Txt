@@ -1,0 +1,12 @@
+Output: Telit-GPS-SL871-Module-V1.1
+Type  : NC Drill
+From  : PCB Document [Telit-GPS-SL871-Module-V1.1.PcbDoc]
+   Generated File[Telit-GPS-SL871-Module-V1.1.TXT]
+   Generated File[Telit-GPS-SL871-Module-V1.1.LDP]
+   Generated File[Telit-GPS-SL871-Module-V1.1.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 17:07:28 On 17.03.2019
