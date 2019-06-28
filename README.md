@@ -1,7 +1,7 @@
 # Telit-GPS-SL871-Module
 Telit-GPS-SL871-Module
 Antenna matching 50 ohm.
-
+You can find all datasheet and other documents in Design file. 
 
 ![Capture1](https://user-images.githubusercontent.com/13172398/60338811-a2bafa00-99af-11e9-87d4-6da6315e1c8c.PNG)
 ![Capture2](https://user-images.githubusercontent.com/13172398/60338812-a2bafa00-99af-11e9-886d-b8340f7e8e82.PNG)
