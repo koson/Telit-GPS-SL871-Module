@@ -1,6 +1,0 @@
-Change Component Footprint: Designator=U1 Old Footprint=SL871 New Footprint=Telit_SL871
-Change component parameters: Designator = "U1"; Footprint = "Telit_SL871"; UniqueID = "\AQTBJWXQ"
-Change component parameters. Clean all parameters for all variants
-Change component parameters (AddParameter): Name = "Category"; Value = "GSM/GPS"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Telit"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "TELIT SL871"; VariantName = "[No Variations]"
